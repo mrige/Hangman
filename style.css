@@ -1,0 +1,18 @@
+body{
+  background-color: rgb(60, 68, 59);
+
+}
+
+.guesses{
+  font-size: 50px;
+  text-align: center;
+
+
+}
+.guessed{
+  opacity: 0;
+}
+
+.incorrect{
+  opacity: 1;
+}
